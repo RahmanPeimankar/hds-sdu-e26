@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 260" width="960" height="260">
+<defs><marker id="arr" markerWidth="10" markerHeight="10" refX="8" refY="5" orient="auto"><path d="M0 0 L10 5 L0 10 Z" fill="#25445b"/></marker></defs>
+<g fill="#e1f2f8" stroke="#507889" stroke-width="2"><rect x="20" y="40" width="220" height="65" rx="10"/><rect x="20" y="155" width="220" height="65" rx="10"/><rect x="352" y="95" width="245" height="70" rx="10"/><rect x="684" y="95" width="250" height="70" rx="10"/></g>
+<g stroke="#25445b" stroke-width="3" marker-end="url(#arr)"><path d="M240 73 L343 121"/><path d="M240 188 L343 139"/><path d="M597 130 L673 130"/></g>
+<g font-family="Arial" font-size="24" text-anchor="middle" fill="#173549"><text x="130" y="81">ECG model</text><text x="130" y="196">Age model</text><text x="474" y="138">Two probabilities</text><text x="809" y="138">Average the two</text></g></svg>
