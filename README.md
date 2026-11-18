@@ -19,3 +19,5 @@ Lecture 7: [![Open In Colab](https://colab.research.google.com/assets/colab-badg
 Lecture 8: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/RahmanPeimankar/hds-sdu-e26/blob/master/Lecture%208/hds_lecture8.ipynb)
 
 Lecture 9: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/RahmanPeimankar/hds-sdu-e26/blob/master/Lecture%209/hds_lecture9.ipynb)
+
+Lecture 10: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/RahmanPeimankar/hds-sdu-e26/blob/master/Lecture%2010/hds_Lecture10.ipynb)
